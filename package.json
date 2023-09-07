@@ -1,5 +1,5 @@
 {
-  "name": "redux-cart",
+  "name": "shopping-cart-redux",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
